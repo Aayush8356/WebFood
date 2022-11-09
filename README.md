@@ -1,20 +1,20 @@
 
 
-# Zinger
+# WebFood
 
-Food ordering website for Zinger restaurant built using Next.js, TailwindCSS, Redux, Mongodb
+Food ordering website Webfood built using Next.js, TailwindCSS, Redux, Mongodb
 
-![Logo](https://zinger.vercel.app/_next/image?url=%2Fimg%2FZinger.svg&w=128&q=75)
+![Logo](./public/img/Zinger.png)
 
 ![Icon](https://zinger.vercel.app/img/favicons/apple-touch-icon.png)
 ## Demo
 
-https://zinger.vercel.app
+https://web-food-xi.vercel.app/
 
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/8x3ZGnG/zinger.gif)
+<!-- ![App Screenshot](https://i.ibb.co/8x3ZGnG/zinger.gif) -->
 
   
 ## Features

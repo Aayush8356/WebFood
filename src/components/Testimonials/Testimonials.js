@@ -4,13 +4,13 @@ function Testimonials() {
   return (
     <div className="px-6 py-20">
       <div className="mx-auto max-w-screen-xl">
-        <h2 className="heading">Our Customers can’t live Without us</h2>
+        <h2 className="heading">Our Customers can't live Without us</h2>
         <div className="flex justify-between mt-20 italic lg:text-base  text-sm gap-6 sm:flex-row flex-col">
           <div className="sm:max-w-xs">
           <div className="font-extrabold text-6xl -mb-8">"</div>
             <p>
-              "Zinger is just awesome! I just launched a startup which leaves me
-              with no time for cooking, so Zinger is a life-saver. Now that I
+              "WebFood is just awesome! I just launched a startup which leaves me
+              with no time for cooking, so WebFood is a life-saver. Now that I
               got used to it, I couldn't live without my daily meals!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
@@ -25,7 +25,7 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Alberto Duncan</span>
+              <span>Shashank Bhai</span>
             </div>
           </div>
           <div className="sm:max-w-xs">
@@ -33,7 +33,7 @@ function Testimonials() {
             <p>
               "Inexpensive, healthy and great-tasting meals, delivered right to
               my home. We have lots of food delivery here in Lisbon, but no one
-              comes even close to Zinger. Me and my family are so in love!
+              comes even close to WebFood. Me and my family are so in love!
             </p>
             <div className="flex items-center sm:mt-8 mt-4 gap-2">
               <div>
@@ -47,7 +47,7 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Joana Silva</span>
+              <span>Sukhla Ji</span>
             </div>
           </div>
           <div className="sm:max-w-xs">
@@ -69,7 +69,7 @@ function Testimonials() {
                 />
               </div>
 
-              <span>Milton Chapman</span>
+              <span>T Heli Sir</span>
             </div>
           </div>
         </div>
