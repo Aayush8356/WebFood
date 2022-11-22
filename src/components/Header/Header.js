@@ -21,7 +21,7 @@ function Header() {
         <div className="flex items-center flex-1">
           <Image
             src="/img/logo70.png"
-            alt="Zinger"
+            alt="WebFood"
             className="cursor-pointer"
             width={100}
             objectFit="contain"
@@ -35,6 +35,7 @@ function Header() {
               <span className="link" onClick={signIn}>
                 Login
               </span>
+              
             ) : (
               <span
                 className="relative"

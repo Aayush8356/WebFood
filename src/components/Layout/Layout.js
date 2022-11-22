@@ -31,7 +31,7 @@ function Layout({ children, admin, auth }) {
                     name="viewport"
                     content="width=device-width,initial-scale=1.0,minimum-scale=1.0"
                 />
-                <title>Zinger</title>
+                <title>WebFood</title>
                 <meta
                     name="description"
                     content="Food ordering website WebFood by Shashank"

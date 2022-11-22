@@ -12,6 +12,7 @@ export default NextAuth({
 
   callbacks: {
     async session(session, token) {
+      console.log("hello:",session,token);
       session.admin = false;
       const { db } = await connectToDatabase();
       const result = await db
@@ -25,5 +26,5 @@ export default NextAuth({
   },
   // A database is optional, but required to persist accounts in a database
   database: `${process.env.MONGO_URI}`,
-  theme: "dark",
+  theme: "light",
 });
